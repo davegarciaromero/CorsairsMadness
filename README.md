@@ -5,7 +5,7 @@
 ### Test Plan
 [Test Plan document]()  
 ### Test Reports: 
-Folder containing the reports generated.  [Report Folder]()
+Folder containing the reports generated.  [Report Folder](https://github.com/davegarciaromero/CorsairsMadness/tree/main/Reports)
  
 
 
