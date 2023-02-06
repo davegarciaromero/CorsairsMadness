@@ -13,7 +13,7 @@ Folder containing the reports generated.  [Report Folder](https://github.com/dav
 
 #### Testing Progress
 [JIRA Roadmap](https://daveproject.atlassian.net/jira/software/projects/CM/boards/4/roadmap)  
-
+(![image](https://user-images.githubusercontent.com/9988705/217005309-9d21a935-1a72-4544-a55b-7f1415db4c2b.png))
 #### Open Bugs
 [JIRA link](https://daveproject.atlassian.net/jira/dashboards/10006)  
 
